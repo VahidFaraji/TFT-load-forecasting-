@@ -1,8 +1,9 @@
-# TFT-load-forecasting-
+# TFT-Electricity-load-forecasting
 Multi-horizon electricity load forecasting using Temporal Fusion Transformers (TFT) with support for exogenous variables, rolling evaluation, multi-seed experiments, and computational cost analysis.
 
-This repository provides a reproducible pipeline for multi-horizon electricity load forecasting using the Temporal Fusion Transformer (TFT).
-
+This repository contains the TFT implementation used in my MSc thesis at Lund University. 
+The corresponding N-HiTS and N-BEATSx experiments are available in the [NeuralForecast repository](https://github.com/VahidFaraji/neuralforecast-electricity-load-forecasting).
+ؤ
 ## Features
 
 * Multi-horizon forecasting (24, 48, 96, 192, 336, 720 hours)
